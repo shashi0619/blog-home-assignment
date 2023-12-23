@@ -1,0 +1,161 @@
+export const nav = [
+  {
+    id: 1,
+    text: "home",
+    url: "/",
+  },
+  {
+    id: 2,
+    text: "about",
+    url: "/about",
+  },
+  {
+    id: 3,
+    text: "pages",
+    url: "/pages",
+  },
+  {
+    id: 4,
+    text: "blog",
+    url: "/blog",
+  },
+  {
+    id: 5,
+    text: "contact",
+    url: "/contact",
+  },
+]
+export const category = [
+  {
+    id: 1,
+    category: "Life",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca1.png",
+  },
+  {
+    id: 2,
+    category: "Fashion",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca2....png",
+  },
+  {
+    id: 3,
+    category: "Travel",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca3.png",
+  },
+  {
+    id: 4,
+    category: "Sport",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca4...png",
+  },
+  {
+    id: 5,
+    category: "Fun",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca5.png",
+  },
+  {
+    id: 6,
+    category: "Health",
+    title: "Becoming a Dragonfly",
+    cover: "../images/category/ca6..png",
+  },
+  {
+    id: 7,
+    category: "Business",
+    title: "Stay Calm And Surf",
+    cover: "../images/category/ca7.png",
+  },
+  {
+    id: 8,
+    category: "Technology",
+    title: "There's always light at the end of the tunnel",
+    cover: "../images/category/ca8..png",
+  },
+]
+export const blog = [
+  {
+    id: 1,
+    title: "Launch of ISRO's Chandrayan 3",
+    desc: "Another historic event that no Indian could ever forget is the success of Chandrayan 3, as it was the best of 2023. After ISRO’s huge loss and multiple heartbreaks in 2019, this year finally compensated for it all. With this, India made history by becoming the first country to land on the south pole of the moon. ",
+    category: "Technology",
+    cover: "../images/blogs/b1..png",
+    date: "August 23, 2023",
+  },
+
+  {
+    id: 2,
+    title: "India Shines In World Cup, Falters In Final",
+    desc: "The men's Cricket World Cup this year saw India put up a stellar show with an undefeated streak through 11 matches. Our World Cup campaign, however, ended in disappointment, with Australia taking home the trophy after prevailing over the men in blue in the final. There was heartbreak in this World Cup, but there were many moments that won the heart. This World Cup saw an all-round performance by the Indian team. Virat Kohli was judged the man of the tournament for his consistent performance through the World Cup. What's more, the ace batter broke the record of most ODI centuries by legend Sachin Tendulkar. On the bowling front, India's Mohammed Shami emerged the highest wicket-taker of the tournament.",
+    category: "Sports",
+    cover: "../images/blogs/b2..png",
+    date: "November 19,2023 ",
+  },
+  {
+    id: 3,
+    title: "A road trip to Ladakh is like no other road trip in the world!",
+    desc: "A road trip to Ladakh is no small feat- it is well and truly the stuff of dreams. Ladakh’s soundlessness, its cobalt blue skies, bright rainbows, and glistening lakes are pure magic.  This road trip boasts of iconic landmarks such as the highest motorable road in the world (Khardung La);  some of the highest mountain passes in the world such as Zoji La and Tanglang La; splendid scenic drives in remote regions, and some little known gems such as the kaleidoscopic More Plains, Lamayuru, and the hypnotic Gata Loops. It is truly a road trip like no other!",
+    category: "Travel",
+    cover: "../images/blogs/b3..png",
+    date: "August 28, 2023",
+  },
+  {
+    id: 4,
+    title: "Kiara Advani sets internet on fire in emerald green outfit",
+    desc: "Kiara Advani is one of those actors not many can achieve in a short period of time. The actress being chosen for being the popular mused for top designers doesn't come as a surprise. Her latest photoshoot in a bold and new avatar proves her mettle. Kiara Advani took to social media to share behind-the-scenes from her latest photoshoot. The actress posed for the camera with her hair styled in bangs, framing her face to perfection. She looked gorgeous in an emerald green outfit and also flaunted her curves.",
+    category: "Fashion",
+    cover: "../images/blogs/b4..png",
+    date: "October 20, 2023",
+  },
+  {
+    id: 5,
+    title: "Manchester City wins FIFA club World Cup 2023 title!",
+    desc: "The final match was held at the King Abdullah Sports City Stadium on December 22nd, where Manchester City faced off against Brazilian team Fluminense. Dominating the game, Manchester City clinched a resounding 4-0 victory, with Julián Álvarez scoring two of the goals, one at the very beginning and another towards the end of the match. An own goal by Nino and a strike from Phil Foden contributed to the comprehensive win.",
+    category: "Sports",
+    cover: "../images/blogs/b5..png",
+    date: "December 22, 2023",
+  },
+  {
+    id: 6,
+    title: "How to Build Strength with Your Yoga Practice",
+    desc: "The physical practice of yoga is actually quite well-suited for strength building for two reasons. The first is that it utilizes repetition. When we repeat a motion, whether it be a Chaturanga or Warrior II, we progressively fatigue our muscles which allows them to grow back stronger. Secondly, each posture in yoga has numerous modifications that allow us to make it easier or more difficult. Therefore, as yogis build strength, it’s easy to find more demanding and difficult progressions that will allow us to continue that growth. By utilizing reputation and adaptation, we’re able to achieve the principal of progressive overhead (i.e. increasing demand on the musculoskeletal system to gain strength, size, and endurance) just as we would in any other athletic discipline.",
+    category: "Health",
+    cover: "../images/blogs/b6..png",
+    date: "February 20, 2023",
+  },
+  {
+    id: 7,
+    title: "MS Dhoni confirmed for IPL 2024 as CSK announce",
+    desc: "It has been confirmed that MS Dhoni will return to action in the upcoming Indian Premier League season, as Chennai Super Kings announced their list of retained and released players ahead of the auction. The auction is scheduled to be held in Dubai on December 19. This will also be the first time that the auction will be held outside India.",
+    category: "Sports",
+    cover: "../images/blogs/b7..png",
+    date: "November 25, 2023",
+  },
+  {
+    id: 8,
+    title: "India reports 752 new Covid cases, 4 deaths in 24 hours",
+    desc: "India has reported 752 COVID-19 cases in the past 24 hours, the highest since May 21, 2023, according to Union Health Ministry data updated on Saturday. The active cases have increased to 3,420, while the country's overall Covid case tally stood at 4.50 crore (4,50,07,964).",
+    category: "Health",
+    cover: "../images/blogs/b8..png",
+    date: "December 23, 2023",
+  },
+  {
+    id: 9,
+    title: "Lionel Messi retirement plan revealed",
+    desc: "Argentina’s World Cup-winning skipper Lionel Messi seems to have finally decided the club where he would retire. After capping off a sensational stint in European football, Messi decided to move to Major League Soccer (MLS) side Inter Miami this summer. Messi’s current Inter Miami deal is set to expire in 2025 and a report published by El Nacional claimed that the seven-time Ballon d’Or winner has no intention of retiring in the United States. The El Nacional article went on to suggest that Messi will leave Inter Miami two years later. The report stated that the legendary Argentine footballer will hang up his boots at his childhood club Newell's Old Boys located in his hometown Rosario.",
+    category: "Sports",
+    cover: "../images/blogs/b9..png",
+    date: "September 20, 2023",
+  },
+
+  {
+    id: 10,
+    title: "A trip to Kullu Manali is the medicine for fatigued minds and tired souls. ",
+    desc: "Nature has blessed them generously, and yet, one is different from the kind of experiences they offer. Kullu is called the “land of the gods”, and quite aptly so. Stretched out leisurely on the banks of the River Beas, it is blessed with a magnificent scenery characterized by forests, valleys, streams, rivers and orchards. Mystical Malana to serene Manikaran, it lures tourists for many reasons. The town of Manali is seated comfortably in the River Beas Valley, and its popularity has increased faster than the clouds that dance on its hilltops. Wonderfully combining nature and adventure, it is serenity, history, nature, spirituality and shopping, all merged into one. Holidays in Kullu Manali then, is about sightseeing, but it is also about adventure, spirituality & being prepared to be constantly surprised.",
+    category: "Travel",
+    cover: "../images/blogs/b10..png",
+    date: "February 20, 2023",
+  },
+]
